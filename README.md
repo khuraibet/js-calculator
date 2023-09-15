@@ -1,1 +1,1 @@
-# (JavaScript Calculator)[https://khuraibet.github.io/js-calculator/]
+# [JavaScript Calculator](https://khuraibet.github.io/js-calculator/)
